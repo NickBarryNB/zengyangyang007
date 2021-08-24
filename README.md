@@ -3,6 +3,9 @@
 ### Hi there 👋
 我是fw。。。呜呜呜
 
+
+I agree with that, cause I am FW 2.
+
 <!--
 **zengyangyang007/zengyangyang007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
